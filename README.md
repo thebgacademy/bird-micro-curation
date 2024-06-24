@@ -1,6 +1,6 @@
 # Manual curation of bird microchromosomes with HiC and gene mapping
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademyBGA23.org/)
+This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org/)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/bird-micro-curation)
 
