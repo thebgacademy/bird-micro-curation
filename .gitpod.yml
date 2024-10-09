@@ -13,7 +13,7 @@ tasks:
   init: |
     cd /workspace
     curl -L "http://dp24.cog.sanger.ac.uk/maps_and_saves.tar.gz" | tar xzf -
-    mv /lustre/scratch123/tol/teams/grit/tom_mathers/bird_mirco_workshop_data/Maps_and_savestates/ ./
+    mv lustre/scratch123/tol/teams/grit/tom_mathers/bird_mirco_workshop_data/Maps_and_savestates/ ./
     rm -rf lustre/
 
 - name: SETUP - Download PretextView
